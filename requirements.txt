@@ -1,0 +1,4 @@
+requests
+pystyle
+beautifulsoup4
+tqdm
