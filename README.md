@@ -13,8 +13,7 @@ FAST WEB APPLICATION VULNERABILITY SCANNER
         a) git clone https://github.com/machine1337/hackguard.git
         b) cd hackguard
         c) python3 -m pip install -r requirements.txt
-       
-    
+        
        2. For Windows Users:
        a) Download python3 on windows and install it
        b) git clone https://github.com/machine1337/hackguard.git
@@ -25,7 +24,11 @@ FAST WEB APPLICATION VULNERABILITY SCANNER
         1. python3 main.py
         2. Choose From Given Options: 1 or 2
         3. Make Sure u domain should look like (site.com)
-
+        
+# Note:
+        1. In the payloads folder, u can replace the dafault payloads with
+           your own custom payloads but default payloads filenames should not be changed.
+           
 # Features:
 
      1.  WEB DOMAIN INFORMATION(IP, PROTOCOL, CMS DETECTION, SERVER DETECTION, WAF DETECTION)
