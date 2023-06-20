@@ -28,7 +28,12 @@ FAST WEB APPLICATION VULNERABILITY SCANNER
 # Note:
         1. In the payloads folder, u can replace the dafault payloads with
            your own custom payloads but default payloads filenames should not be changed.
-           
+
+# Demo Video:
+        
+https://github.com/machine1337/hackguard/assets/82051128/edbbafac-e619-42cd-b36f-28b430615243
+
+
 # Features:
 
      1.  WEB DOMAIN INFORMATION(IP, PROTOCOL, CMS DETECTION, SERVER DETECTION, WAF DETECTION)
