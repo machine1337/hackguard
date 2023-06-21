@@ -2,6 +2,8 @@
 FAST WEB APPLICATION VULNERABILITY SCANNER
 ![ftyp](https://github.com/machine1337/hackguard/assets/82051128/0053add9-1d9f-4e05-b24d-675d3de862e7)
 ![fyp1](https://github.com/machine1337/hackguard/assets/82051128/a48ae751-b661-4140-bc25-c42d6abf1b4c)
+![Untitled](https://github.com/machine1337/hackguard/assets/82051128/50e4aabb-677a-4c8a-a990-9b49e22e6916)
+
 
 # Requirements:
       1. Make sure python3 is installed in windows Or in Linux
