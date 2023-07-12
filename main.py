@@ -268,7 +268,7 @@ def menu():
         elif ans == "3":
             os.system('cls' if os.name == 'nt' else 'clear')
             print(Colorate.Vertical(Colors.green_to_yellow, banner, 2))
-            print(Colors.red+"\n [+] Thanks For Using Fake-SMS! See You Tomorrow")
+            print(Colors.red+"\n [+] Thanks For Using HackGuard! See You Tomorrow")
             ans = None
         else:
             print(Colors.red+"\n [+] Not Valid Choice Try again")
