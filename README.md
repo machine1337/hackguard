@@ -64,3 +64,6 @@ https://github.com/machine1337/hackguard/assets/82051128/edbbafac-e619-42cd-b36f
        1. Auto-Exploit Features will be added.
        2. will make it more reliable.
        3. and so on...
+
+# Contact:
+      Telegram Group: https://t.me/machine1337
